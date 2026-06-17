@@ -17,7 +17,6 @@ class AppConstants {
   static const int pageSize = 20;
 
   static const List<Map<String, String>> sortingOptions = [
-    {'key': 'lofi aesthetic anime', 'label': 'lofi aesthetic anime', 'icon': '*'},
     {'key': 'japanese night city rain', 'label': 'japanese night city rain', 'icon': '*'},
     {'key': 'cozy anime room', 'label': 'cozy anime room', 'icon': '*'},
     {'key': 'sakura street japan', 'label': 'sakura street japan', 'icon': '*'},

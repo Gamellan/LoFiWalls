@@ -7,7 +7,6 @@
   static const bool filterLightImages = false;
 
   static const List<String> categories = [
-    'lofi aesthetic anime',
     'japanese night city rain',
     'cozy anime room',
     'sakura street japan',
